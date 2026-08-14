@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0183-customers-who-never-order](https://github.com/ParagMaheshwari/DSA-CODE/tree/master/0183-customers-who-never-order) |
 | [0196-delete-duplicate-emails](https://github.com/ParagMaheshwari/DSA-CODE/tree/master/0196-delete-duplicate-emails) |
 | [0596-classes-with-at-least-5-students](https://github.com/ParagMaheshwari/DSA-CODE/tree/master/0596-classes-with-at-least-5-students) |
+| [0619-biggest-single-number](https://github.com/ParagMaheshwari/DSA-CODE/tree/master/0619-biggest-single-number) |
 | [1517-find-users-with-valid-e-mails](https://github.com/ParagMaheshwari/DSA-CODE/tree/master/1517-find-users-with-valid-e-mails) |
 ## Array
 |  |
