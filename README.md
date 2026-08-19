@@ -37,4 +37,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/ParagMaheshwari/DSA-CODE/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
+## String
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/ParagMaheshwari/DSA-CODE/tree/master/0020-valid-parentheses) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/ParagMaheshwari/DSA-CODE/tree/master/0020-valid-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/ParagMaheshwari/DSA-CODE/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
